@@ -13,7 +13,6 @@ public class main{
             }
         }
         
-
         //message = (i%2==0) ? i+' is even number' : i+' is odd number';
 
 
